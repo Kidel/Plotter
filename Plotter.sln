@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plotter", "Plotter\Plotter.csproj", "{2285CBAD-2A16-431A-9A32-90877D3D7399}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{692ADDCA-A346-47D5-9B09-F1F0FE794223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2285CBAD-2A16-431A-9A32-90877D3D7399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2285CBAD-2A16-431A-9A32-90877D3D7399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2285CBAD-2A16-431A-9A32-90877D3D7399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2285CBAD-2A16-431A-9A32-90877D3D7399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692ADDCA-A346-47D5-9B09-F1F0FE794223}.Debug|Any CPU.ActiveCfg = All
+		{692ADDCA-A346-47D5-9B09-F1F0FE794223}.Debug|Any CPU.Build.0 = All
+		{692ADDCA-A346-47D5-9B09-F1F0FE794223}.Release|Any CPU.ActiveCfg = All
+		{692ADDCA-A346-47D5-9B09-F1F0FE794223}.Release|Any CPU.Build.0 = All
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
