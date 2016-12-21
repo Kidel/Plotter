@@ -1,6 +1,6 @@
 # Plotter
-A very simple C# Forms application I made to help my little brother with his homeworks. It's used to plot graphs from coordinates. 
-The generated graph can be also saved as PNG or copied to clipboard. 
+A very simple **C♯ Forms** application I made to help my little brother with his homeworks. It's used to plot graphs from coordinates on a Cartssian plane. 
+The generated graph can be also saved as PNG or copied to clipboard by right clicking on it. 
 
 I've also included the project to generate the setup.msi file. 
 
